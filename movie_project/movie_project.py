@@ -1,7 +1,7 @@
 import requests
 
 
-API_KEY = "bfba14b3" 
+API_KEY = "YOUR_KEY_HERE" 
 
 def movie_search():
     movie = input("Enter movie name: ")
